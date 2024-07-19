@@ -1,0 +1,17 @@
+Which of the following is a correct way to comment multiple lines in Python?,"/* Comment */","<!-- Comment -->","# Comment","''' Comment '''",D
+Which of the following statements is true about Python?,Python is a high-level programming language.,Python is an example of a low-level programming language.,Python is not suitable for web development.,Python is a compiled language.,A
+Which of the following is the correct way to open a file named "data.txt" in Python for reading?,open("data.txt" "," "r"),open("data.txt" "," "read"),open("data.txt" "," "w"),open("data.txt" "," "write"),A
+What does the following expression evaluate to in Python?,True,False,Error,None of the above,A
+What is the purpose of the "elif" keyword in Python?,It is used to create a new variable.,It is short for "else if" and is used for multiple conditional statements.,It is used to round a floating-point number.,It is used to check if a variable is empty.,B
+Which of the following is not a valid data type in Python?,int,str,char,bool,C
+What does the "import" keyword do in Python?,It is used to print output.,It is used to create a new function.,It is used to import modules or libraries.,It is used to check the type of a variable.,C
+Which of the following is the correct syntax for a "for" loop in Python?,for i in range(5),for i = 0; i < 5; i++,for i = 0 to 5,for i in range(0 5),D
+What is the output of the following code?,Python,python,PYthon,pytHON,B
+Which of the following is used to add a comment in Python?,//,/,#,--,C
+Which of the following is a correct way to define a function in Python?,def function_name(): # Function body,function_name(): # Function body,define function_name(): # Function body,define_function_name(): # Function body,A
+Which of the following is NOT a valid data type in Python?,int,float,double,str,C
+Which of the following is used to define a function in Python?,func,def,define,function,B
+Which of the following is used for comments in Python?,//,--,#,%%,C
+In Python how do you check the length of a list?,len(list),list.length(),length(list),list.len(),A
+Which of the following is used to remove an item from a list in Python?,pop(),remove(),delete(),discard(),A
+What does the "range()" function in Python return?,A list of numbers,A tuple of numbers,A generator object,A dictionary of numbers,C

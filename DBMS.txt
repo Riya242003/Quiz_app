@@ -1,0 +1,30 @@
+Which of the following is NOT a type of database management system?,Hierarchical,Relational,Structured Query Language,Network,C
+What is the primary function of a DBMS?,To create databases,To process complex queries,To manage and organize data,To secure data from unauthorized access,C
+In DBMS what does SQL stand for?,Standard Query Language,Structured Query Language,System Query Language,Sequential Query Language,B
+Which of the following is not a component of a database system?,Database,Software,Hardware,Files,D
+What is the purpose of a primary key in a relational database?,To uniquely identify each record in a table,To establish relationships between tables,To enforce data integrity constraints,To provide a default value for a column,A
+Which of the following SQL commands is used to retrieve data from a database?,CREATE,UPDATE,SELECT,DELETE,C     
+What is normalization in the context of database design?,A process of removing redundant data,A process of adding data redundancy,A process of converting data into tables,A process of encrypting data,A
+Which normal form ensures that there are no repeating groups of data within a table?,First Normal Form (1NF),Second Normal Form (2NF),Third Normal Form (3NF),Fourth Normal Form (4NF),A
+What is ACID property in DBMS?,Atomicity Consistency Isolation Durability,Aggregate Consistency Integrity Durability,Atomicity Consistency Integration Durability,Aggregate Consistency Isolation Durability,A
+Which of the following SQL commands is used to make permanent changes to the database?,COMMIT,ROLLBACK,SAVEPOINT,ALTER,A
+What is a foreign key in a relational database?,A key used for encryption,A key that uniquely identifies each record in a table,A key that establishes a link between two tables,A key that cannot contain null values,C
+What is the purpose of the GROUP BY clause in SQL?,To sort the result set in ascending order,To filter rows based on a specified condition,To perform aggregate functions on grouped data,To join multiple tables,C
+Which of the following is an example of a non-relational database?,MySQL,MongoDB,Oracle,SQL Server,B
+What is the purpose of the COMMIT statement in SQL?,To save the changes made by transactions,To undo the changes made by transactions,To define a point of rollback in a transaction,To discard all changes made by transactions,A
+What is a view in a database?,A virtual table based on the result of a query,A physical table containing duplicate records,A table that stores metadata information,A table used for temporary storage,A
+Which of the following is NOT a type of join in SQL?,INNER JOIN,OUTER JOIN,CROSS JOIN,SUB JOIN,D
+What is the purpose of the WHERE clause in SQL?,To specify the columns to be retrieved,To specify the tables to be queried,To filter rows based on a specified condition,To sort the result set,C
+Which of the following is a disadvantage of a distributed database system?,Improved data availability,Increased data security,Higher complexity of management,Reduced data redundancy,C
+What is the role of a database administrator (DBA)?,To design and implement databases,To write SQL queries,To manage and maintain databases,To analyze database performance,C
+What is the purpose of the ORDER BY clause in SQL?,To group the result set,To filter rows based on a specified condition,To sort the result set,To join multiple tables,C
+What is a trigger in a database?,A constraint that ensures data integrity,A stored procedure that is automatically executed in response to certain events,A function used to retrieve data from multiple tables,A query used to update records in a table,B
+Which of the following SQL commands is used to add new rows to a table?,INSERT,UPDATE,ALTER,ADD,A
+What is a deadlock in DBMS?,A situation where two or more transactions are waiting for each other to release locks,A situation where a transaction is waiting indefinitely for a resource to become available,A situation where a transaction is terminated abruptly,A situation where a database is corrupted and cannot be recovered,A
+Which of the following is a disadvantage of using NoSQL databases?,Lack of scalability,Limited support for complex queries,Inefficient data storage,Difficulty in managing unstructured data,B
+What is the purpose of the HAVING clause in SQL?,To filter rows based on a specified condition,To sort the result set,To filter groups based on a specified condition,To perform aggregate functions on grouped data,C
+What is a stored procedure in a database?,A query that retrieves data from multiple tables,A predefined set of SQL statements that performs a specific task,A constraint that ensures data integrity,A function used to manipulate data,B
+Which of the following SQL commands is used to delete rows from a table?,DELETE,REMOVE,DROP,ERASE,A
+What is a data dictionary in a database?,A table that contains metadata information about the database,A collection of primary keys from different tables,A set of rules that defines the structure of a database,A list of database users and their permissions,A
+What is the purpose of the DISTINCT keyword in SQL?,To specify the columns to be retrieved,To remove duplicate rows from the result set,To perform aggregate functions on grouped data,To filter rows based on a specified condition,B
+Which of the following is a feature of a NoSQL database?,Strong ACID properties,Strict schema enforcement,Horizontal scalability,Support for complex transactions,C

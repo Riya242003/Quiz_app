@@ -1,0 +1,29 @@
+What is the primary function of an operating system?,To manage hardware resources,To process data,To provide user interfaces,To develop software,A
+Which of the following is not an operating system function?,Process management,Memory management,Printer management,Database management,D
+What is a kernel in an operating system?,A user interface,A hardware component,A core component of the operating system,A peripheral device,C
+Which of the following is not a type of operating system?,Linux,Windows,Microsoft Office,Mac OS,C
+What is the purpose of the scheduler in an operating system?,To manage memory resources,To manage peripheral devices,To manage process execution,To manage file systems,C
+What is virtual memory in an operating system?,A memory management technique,A storage device,A type of RAM,A backup storage,D
+Which of the following is not a multitasking operating system?,Windows,Unix,MS-DOS,DOS,C
+What is a process in an operating system?,A program in execution,A hardware component,A type of storage device,A peripheral device,A
+What is the purpose of the file system in an operating system?,To manage processes,To manage memory,To manage peripheral devices,To manage files and directories,D
+Which of the following is not a type of file system?,FAT32,NTFS,SMTP,EXT4,C
+What is a deadlock in an operating system?,A situation where two processes are waiting for each other to release resources,A situation where a process is waiting indefinitely for a resource,A situation where a process terminates unexpectedly,A situation where the operating system crashes,A
+What is the role of device drivers in an operating system?,To manage memory resources,To manage peripheral devices,To manage processes,To manage user interfaces,B
+Which of the following is not a type of operating system user interface?,Command-line interface (CLI),Graphical user interface (GUI),Natural language interface (NLI),Machine language interface (MLI),D
+What is a thread in an operating system?,A lightweight process,A hardware component,A peripheral device,A user interface,A
+Which of the following is not a feature of a real-time operating system (RTOS)?,Predictable response time,High reliability,Support for multitasking,Low latency,C
+What is the purpose of the command interpreter in an operating system?,To translate high-level language programs into machine code,To manage memory resources,To interpret and execute commands entered by the user,To manage file systems,C
+Which of the following is not a type of operating system scheduling?,Round-robin scheduling,First-come, first-served (FCFS) scheduling,Priority scheduling,Database scheduling,D
+What is the purpose of the spooler in an operating system?,To manage memory resources,To manage peripheral devices,To manage file systems,To manage processes,B
+Which of the following is not a function of an operating system?,To provide security and protection,To manage resources efficiently,To provide application software,To provide user interfaces,C
+What is a semaphore in an operating system?,A synchronization mechanism,A storage device,A peripheral device,A type of RAM,A
+Which of the following is not a type of operating system memory?,Random-access memory (RAM),Read-only memory (ROM),Input/output memory (I/O memory),Cache memory,C
+What is a shell in an operating system?,A hardware component,A user interface,A peripheral device,A type of RAM,B
+Which of the following is not a function of the operating system kernel?,Memory management,Process management,User interface management,File system management,C
+What is a context switch in an operating system?,The process of switching from one user interface to another,The process of switching from one process to another,The process of switching from one file system to another,The process of switching from one memory management technique to another,B
+Which of the following is not an example of an interrupt?,Timer interrupt,Software interrupt,Hardware interrupt,Process interrupt,B
+What is a race condition in an operating system?,A situation where two or more processes are competing for resources,A situation where a process is waiting indefinitely for a resource,A situation where a process terminates unexpectedly,A situation where the operating system crashes,A
+What is a deadlock in an operating system?,A situation where two processes are waiting for each other to release resources,A situation where a process is waiting indefinitely for a resource,A situation where a process terminates unexpectedly,A situation where the operating system crashes,A
+What is the purpose of the command interpreter in an operating system?,To interpret and execute commands entered by the user,To manage memory resources,To manage file systems,To provide user interfaces,A
+Which of the following is not a type of operating system user interface?,Machine language interface (MLI),Command-line interface (CLI),Graphical user interface (GUI),Natural language interface (NLI),A
